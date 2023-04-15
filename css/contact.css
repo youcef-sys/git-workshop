@@ -1,0 +1,39 @@
+.contact {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    background-color: rgba(165, 42, 42, 0.658);
+    border-radius: 8px;
+}
+
+.contact_items {
+    margin: 40px;
+}
+
+#facebook_logo {
+    height: 30px;
+
+
+}
+
+#instagram_logo {
+    height: 30px;
+
+}
+
+#linkedin_logo {
+    height: 35px;
+
+}
+
+.pgh {
+    transform: translate(8%);
+}
+
+.link {
+    position: absolute;
+    transform: translateY(32%);
+    text-decoration: none;
+    margin-left: 10px;
+    color: black;
+}

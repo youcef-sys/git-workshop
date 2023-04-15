@@ -1,0 +1,55 @@
+#guitar-logo{
+    height: 80px;
+    margin-left: 20px;
+}
+
+
+
+.navigation{
+    height: 60px;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+}
+
+
+.nav-items{
+    display: flex;
+    list-style: none;
+    margin-left: 65%;
+    position: relative;
+    right: 18%;
+    
+}
+
+.nav-item:hover{
+    display: inline-block;
+    background-color: rgba(161, 56, 56, 0.699);
+    
+}
+
+.nav-item{
+    display: inline-block;
+    padding: 19px;
+    color: brown;
+    margin: 30px;
+    
+
+}
+
+
+
+.nav-items a{
+    display: inline-block;
+    font-size: 15px;
+    text-decoration: none;
+    color: brown;
+}
+
+
+
+
+
+
+
+
